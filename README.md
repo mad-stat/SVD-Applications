@@ -1,1 +1,1 @@
-# Applications-pf-SVD
+# SVD Applications
