@@ -18,11 +18,12 @@ In this repository, we have primarily focused on compressing images with high re
   
 * <code style = "color:red">Previous Year Solved Papers for ISI and TIFR Entrance Exams</code>
 
-### ${\color{pink}Books}$$
 
+### $${\color{violet}Books}$$
  1. [Challenging Mathematical Problems for BS Entrances](https://github.com/ctanujit/lecture-notes/blob/main/Books/Challenging%20Mathematical%20Problems%20for%20BS%20Entrances.pdf)
  2. [Olympiad Mathematics](https://github.com/ctanujit/lecture-notes/blob/main/Books/Olympiad%20Mathematics.pdf)
  3. [Solving Mathematical Problems for MS Entrances](https://github.com/ctanujit/lecture-notes/blob/main/Books/Solving%20Mathematical%20Problems%20for%20MS%20Entrances.pdf)
+
 
 ### $${\color{orange}Mathematics \ Course \ Material}$$
 1. [Differential Calculus](https://github.com/ctanujit/lecture-notes/blob/main/Mathematics/Differential%20Calculus.pdf)
@@ -33,6 +34,7 @@ In this repository, we have primarily focused on compressing images with high re
 6. [Operations Research](https://github.com/ctanujit/lecture-notes/blob/main/Mathematics/Operations%20Research.pdf)
 7. [Real Analysis](https://github.com/ctanujit/lecture-notes/blob/main/Mathematics/Real%20Analysis.pdf)
 8. [Sequence and Series of Real Numbers](https://github.com/ctanujit/lecture-notes/blob/main/Mathematics/Sequence%20and%20Series%20of%20Real%20Numbers.pdf)
+
 
 ### $${\color{lightgreen}Statistics \ Course \ Material}$$
 1. [Introduction to Probability](https://github.com/ctanujit/lecture-notes/blob/main/Statistics/Introduction%20to%20Probability.pdf)
@@ -59,8 +61,8 @@ In this repository, we have primarily focused on compressing images with high re
 22. [Regression Techniques](https://github.com/ctanujit/lecture-notes/blob/main/Statistics/Regression%20Techniques.pdf)
 23. [Industrial Experimentation](https://github.com/ctanujit/lecture-notes/blob/main/Statistics/Industrial%20Experimentation.pdf)
 
-### $${\color{red}Machine \ Learning \ Course \ Material}$$
 
+### $${\color{red}Machine \ Learning \ Course \ Material}$$
 1. [Business Analytics](https://github.com/ctanujit/lecture-notes/blob/main/ML/Business%20Analytics.pdf)
 2. [Management Information System](https://github.com/ctanujit/lecture-notes/blob/main/ML/Management%20Information%20System.pdf)
 3. [Pattern Recognition](https://github.com/ctanujit/lecture-notes/blob/main/ML/Pattern%20Recognition.pdf)
